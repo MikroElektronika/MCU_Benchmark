@@ -1,0 +1,1 @@
+int whetstone_benchmark();

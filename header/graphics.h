@@ -1,0 +1,1 @@
+int graphics_benchmark();
